@@ -1,0 +1,301 @@
+Order_ID,Date,Product,Category,Region,Salesperson,Units_Sold,Unit_Price,Total_Sales,Discount(%),Payment_Method,Customer_Age,Customer_Gender,Customer_City,Repeat_Customer
+ORD1000,2024-12-18,Printer,Electronics,West,Eva,6,1329,6618.42,17,Cash,30,Female,Delhi,Yes
+ORD1001,2024-02-17,Headphones,Electronics,East,Grace,6,1807,10516.74,3,Credit Card,48,Female,Mumbai,Yes
+ORD1002,2024-07-04,Camera,Office,North,Helen,16,954,12669.12,17,Debit Card,58,Male,Hyderabad,No
+ORD1003,2024-05-27,Printer,Accessories,North,Alice,4,1299,3689.16,29,UPI,28,Female,Hyderabad,No
+ORD1004,2024-02-03,Tablet,Accessories,West,Frank,11,1126,11890.56,4,Debit Card,21,Female,Pune,Yes
+ORD1005,2024-09-20,Monitor,Electronics,South,Alice,9,989,6764.76,24,Net Banking,51,Female,Pune,No
+ORD1006,2024-12-06,Camera,Accessories,East,Bob,3,1940,4947.0,15,Cash,55,Male,Mumbai,No
+ORD1007,2024-08-30,Camera,Accessories,West,Helen,19,1573,29887.0,0,Credit Card,63,Female,Pune,No
+ORD1008,2024-07-01,Printer,Office,North,Grace,8,1579,10105.6,20,Credit Card,21,Male,Chennai,Yes
+ORD1009,2024-10-03,Smartphone,Office,North,Alice,5,903,3928.05,13,UPI,55,Female,Bangalore,Yes
+ORD1010,2024-04-10,Tablet,Office,West,Charlie,4,1437,4943.28,14,Debit Card,36,Male,Bangalore,Yes
+ORD1011,2024-02-13,Printer,Office,East,Eva,6,1353,7468.56,8,UPI,23,Male,Bangalore,No
+ORD1012,2024-02-21,Tablet,Electronics,South,Bob,2,642,1104.24,14,Cash,51,Female,Mumbai,No
+ORD1013,2024-04-28,Tablet,Office,South,Grace,11,763,7050.12,16,UPI,35,Female,Mumbai,Yes
+ORD1014,2024-05-09,Monitor,Accessories,North,Alice,4,1231,3742.24,24,Credit Card,30,Male,Delhi,Yes
+ORD1015,2024-07-05,Camera,Electronics,East,Frank,15,681,7865.55,23,Credit Card,58,Female,Bangalore,Yes
+ORD1016,2024-12-25,Headphones,Accessories,South,Charlie,6,108,628.56,3,Net Banking,40,Female,Chennai,No
+ORD1017,2024-08-01,Monitor,Accessories,East,Charlie,17,1800,27234.0,11,Net Banking,36,Female,Pune,Yes
+ORD1018,2024-05-18,Monitor,Accessories,East,Alice,6,177,785.88,26,Cash,62,Male,Chennai,Yes
+ORD1019,2024-01-31,Tablet,Office,North,Eva,19,785,11186.25,25,Debit Card,28,Male,Pune,No
+ORD1020,2024-03-18,Smartwatch,Office,South,Alice,2,770,1478.4,4,UPI,18,Female,Bangalore,No
+ORD1021,2024-05-05,Camera,Electronics,West,Bob,15,1955,21114.0,28,Cash,41,Female,Bangalore,No
+ORD1022,2024-08-08,Smartphone,Electronics,North,Alice,11,1188,12545.28,4,Net Banking,24,Female,Bangalore,Yes
+ORD1023,2024-10-10,Monitor,Office,South,Charlie,8,1282,9230.4,10,UPI,42,Male,Mumbai,No
+ORD1024,2024-11-21,Headphones,Accessories,South,Grace,19,575,7975.25,27,Net Banking,38,Male,Pune,No
+ORD1025,2024-04-11,Smartwatch,Electronics,South,Alice,13,570,7039.5,5,UPI,32,Female,Mumbai,Yes
+ORD1026,2024-02-21,Smartwatch,Office,South,Eva,12,601,6779.28,6,Debit Card,18,Female,Mumbai,No
+ORD1027,2024-01-20,Smartphone,Office,South,Helen,5,286,1101.1,23,Cash,29,Female,Hyderabad,Yes
+ORD1028,2024-10-12,Monitor,Office,East,Grace,6,1354,7067.88,13,UPI,24,Female,Chennai,Yes
+ORD1029,2024-05-23,Headphones,Accessories,North,Frank,4,1432,4410.56,23,Credit Card,32,Female,Chennai,No
+ORD1030,2024-02-17,Camera,Office,East,David,19,1274,21785.4,10,Credit Card,38,Female,Delhi,No
+ORD1031,2024-08-13,Laptop,Office,West,Alice,1,1831,1300.01,29,UPI,36,Male,Mumbai,No
+ORD1032,2024-01-17,Headphones,Office,South,Eva,17,1351,20210.96,12,UPI,46,Female,Pune,No
+ORD1033,2024-06-22,Smartphone,Office,North,Grace,12,1308,15539.04,1,UPI,42,Male,Hyderabad,No
+ORD1034,2024-06-20,Smartwatch,Electronics,South,Eva,15,543,6190.2,24,Credit Card,50,Female,Hyderabad,No
+ORD1035,2024-02-16,Camera,Electronics,North,Frank,1,53,49.82,6,Credit Card,49,Female,Chennai,Yes
+ORD1036,2024-06-11,Headphones,Office,East,Charlie,14,715,8108.1,19,UPI,52,Male,Mumbai,Yes
+ORD1037,2024-11-17,Laptop,Accessories,North,Eva,6,491,2857.62,3,Net Banking,61,Male,Delhi,No
+ORD1038,2024-03-16,Laptop,Electronics,West,Grace,5,78,288.6,26,Net Banking,55,Male,Mumbai,Yes
+ORD1039,2024-04-19,Tablet,Office,West,Eva,11,1182,12091.86,7,Debit Card,43,Male,Bangalore,No
+ORD1040,2024-01-15,Tablet,Electronics,North,Eva,4,659,2135.16,19,Cash,28,Female,Mumbai,Yes
+ORD1041,2024-08-17,Printer,Electronics,North,Eva,13,1800,16848.0,28,Net Banking,52,Male,Bangalore,Yes
+ORD1042,2024-02-12,Smartphone,Accessories,North,Bob,11,854,7421.26,21,Credit Card,25,Female,Bangalore,Yes
+ORD1043,2024-11-22,Monitor,Office,North,Bob,3,124,297.6,20,Net Banking,63,Male,Delhi,No
+ORD1044,2024-10-12,Headphones,Office,West,Charlie,1,887,727.34,18,Debit Card,31,Female,Pune,Yes
+ORD1045,2024-12-03,Headphones,Accessories,South,Alice,6,1219,6436.32,12,Debit Card,27,Female,Chennai,No
+ORD1046,2024-04-05,Monitor,Accessories,North,Eva,18,177,2771.82,13,Cash,19,Female,Mumbai,Yes
+ORD1047,2024-01-22,Printer,Office,North,Frank,10,1926,17526.6,9,Net Banking,63,Female,Bangalore,Yes
+ORD1048,2024-12-06,Smartwatch,Office,West,Alice,5,91,409.5,10,Credit Card,26,Female,Mumbai,Yes
+ORD1049,2024-03-12,Smartwatch,Accessories,West,Frank,10,1429,14147.1,1,Credit Card,20,Female,Pune,Yes
+ORD1050,2024-01-21,Printer,Electronics,East,Alice,12,90,820.8,24,UPI,38,Male,Chennai,Yes
+ORD1051,2024-04-13,Smartwatch,Electronics,North,Charlie,2,983,1474.5,25,Credit Card,43,Female,Pune,No
+ORD1052,2024-01-05,Tablet,Accessories,East,Eva,13,83,992.68,8,Cash,25,Male,Chennai,No
+ORD1053,2024-02-25,Headphones,Electronics,West,Eva,8,1090,7324.8,16,Cash,19,Male,Hyderabad,Yes
+ORD1054,2024-03-30,Printer,Accessories,West,David,2,1750,2625.0,25,Credit Card,23,Female,Chennai,Yes
+ORD1055,2024-03-04,Headphones,Electronics,South,Frank,1,1226,1201.48,2,Credit Card,45,Male,Delhi,Yes
+ORD1056,2024-05-28,Monitor,Electronics,North,Alice,5,1047,4030.95,23,UPI,46,Female,Pune,Yes
+ORD1057,2024-12-10,Laptop,Office,East,Alice,9,1451,12406.05,5,Credit Card,43,Male,Bangalore,No
+ORD1058,2024-02-25,Tablet,Office,West,Helen,17,637,10395.84,4,UPI,42,Female,Hyderabad,Yes
+ORD1059,2024-11-02,Camera,Electronics,West,Helen,9,1672,14446.08,4,UPI,29,Male,Delhi,No
+ORD1060,2024-10-24,Tablet,Electronics,East,Bob,11,1702,14790.38,21,Credit Card,22,Female,Mumbai,Yes
+ORD1061,2024-10-10,Printer,Office,South,David,15,1947,25116.3,14,Debit Card,51,Female,Pune,No
+ORD1062,2024-04-04,Camera,Office,West,Grace,6,391,1829.88,22,Debit Card,54,Female,Bangalore,Yes
+ORD1063,2024-09-19,Laptop,Office,North,Helen,3,76,191.52,16,UPI,32,Female,Chennai,Yes
+ORD1064,2024-04-07,Printer,Accessories,West,Grace,17,1898,29684.72,8,Credit Card,61,Male,Bangalore,No
+ORD1065,2024-07-27,Smartphone,Electronics,North,Bob,5,1360,6664.0,2,Debit Card,53,Female,Mumbai,Yes
+ORD1066,2024-07-21,Headphones,Office,East,Bob,12,695,6755.4,19,Credit Card,32,Male,Hyderabad,Yes
+ORD1067,2024-05-17,Laptop,Electronics,North,Bob,18,780,10530.0,25,Credit Card,60,Male,Hyderabad,Yes
+ORD1068,2024-12-18,Headphones,Accessories,East,Frank,14,217,2551.92,16,Credit Card,40,Male,Pune,No
+ORD1069,2024-09-22,Smartwatch,Accessories,North,Frank,11,659,5219.28,28,Net Banking,23,Female,Hyderabad,Yes
+ORD1070,2024-08-12,Smartphone,Office,East,Charlie,9,317,2111.22,26,Credit Card,63,Male,Pune,Yes
+ORD1071,2024-11-13,Smartphone,Accessories,North,Charlie,2,1822,3316.04,9,Net Banking,61,Male,Pune,No
+ORD1072,2024-03-23,Laptop,Electronics,South,Bob,12,870,10231.2,2,UPI,60,Male,Pune,No
+ORD1073,2024-07-08,Smartphone,Office,North,David,3,504,1254.96,17,Debit Card,62,Female,Chennai,No
+ORD1074,2024-09-21,Camera,Electronics,North,Alice,3,955,2377.95,17,Debit Card,38,Female,Delhi,Yes
+ORD1075,2024-07-29,Smartphone,Electronics,South,Frank,1,1758,1248.18,29,Debit Card,40,Male,Pune,Yes
+ORD1076,2024-06-25,Headphones,Accessories,West,David,8,1474,9905.28,16,Debit Card,60,Female,Pune,Yes
+ORD1077,2024-03-13,Headphones,Accessories,West,Eva,8,971,5981.36,23,Debit Card,33,Female,Delhi,No
+ORD1078,2024-03-28,Printer,Accessories,North,Frank,11,1030,11103.4,2,Debit Card,64,Male,Bangalore,Yes
+ORD1079,2024-03-31,Headphones,Accessories,South,Frank,9,1549,13662.18,2,Debit Card,32,Male,Pune,Yes
+ORD1080,2024-06-01,Printer,Accessories,North,Charlie,5,751,3567.25,5,UPI,42,Female,Chennai,No
+ORD1081,2024-09-18,Headphones,Office,East,Alice,14,683,8414.56,12,Credit Card,53,Male,Hyderabad,No
+ORD1082,2024-05-22,Camera,Electronics,East,Alice,3,1631,3767.61,23,Cash,28,Female,Hyderabad,No
+ORD1083,2024-11-16,Monitor,Electronics,North,Helen,5,1649,5936.4,28,Net Banking,32,Female,Mumbai,No
+ORD1084,2024-09-27,Printer,Electronics,West,Grace,5,179,769.7,14,Cash,21,Female,Mumbai,No
+ORD1085,2024-11-07,Tablet,Electronics,West,Grace,19,1069,15436.36,24,Cash,38,Female,Hyderabad,Yes
+ORD1086,2024-12-06,Smartwatch,Accessories,North,Grace,14,1895,24407.6,8,Credit Card,30,Female,Hyderabad,No
+ORD1087,2024-02-15,Laptop,Electronics,North,Grace,4,1436,5571.68,3,Credit Card,39,Female,Chennai,Yes
+ORD1088,2024-06-29,Headphones,Office,East,Eva,13,1778,20109.18,13,Credit Card,36,Male,Delhi,Yes
+ORD1089,2024-04-20,Smartphone,Office,West,Eva,10,868,8332.8,4,Debit Card,51,Male,Mumbai,No
+ORD1090,2024-02-26,Monitor,Electronics,North,Frank,18,742,13222.44,1,UPI,31,Female,Delhi,No
+ORD1091,2024-09-01,Headphones,Electronics,East,Bob,8,1365,9828.0,10,Debit Card,21,Female,Chennai,No
+ORD1092,2024-10-05,Smartphone,Office,West,Charlie,8,1444,10627.84,8,UPI,63,Female,Hyderabad,Yes
+ORD1093,2024-01-20,Smartwatch,Office,South,Charlie,7,843,4543.77,23,UPI,44,Male,Pune,No
+ORD1094,2024-07-16,Smartwatch,Accessories,East,Grace,8,78,611.52,2,Cash,46,Female,Delhi,No
+ORD1095,2024-11-12,Smartwatch,Office,West,Frank,14,198,2051.28,26,Cash,64,Male,Hyderabad,No
+ORD1096,2024-07-06,Smartphone,Accessories,West,Helen,19,1852,25687.24,27,UPI,45,Female,Hyderabad,No
+ORD1097,2024-04-16,Headphones,Accessories,East,David,6,1369,5914.08,28,UPI,52,Female,Bangalore,No
+ORD1098,2024-11-18,Smartwatch,Accessories,South,Bob,1,60,55.2,8,Debit Card,25,Male,Delhi,Yes
+ORD1099,2024-11-25,Camera,Accessories,East,Frank,15,1585,23299.5,2,Debit Card,33,Male,Pune,Yes
+ORD1100,2024-11-21,Printer,Accessories,West,Bob,1,725,551.0,24,Cash,59,Female,Delhi,Yes
+ORD1101,2024-11-25,Smartphone,Electronics,North,Bob,17,1186,19960.38,1,Credit Card,53,Female,Hyderabad,No
+ORD1102,2024-06-11,Smartphone,Office,North,Bob,1,236,210.04,11,UPI,47,Female,Pune,No
+ORD1103,2024-08-30,Headphones,Accessories,East,Frank,15,856,11684.4,9,Debit Card,35,Male,Chennai,No
+ORD1104,2024-03-04,Smartphone,Office,West,Grace,2,793,1459.12,8,Cash,19,Male,Bangalore,Yes
+ORD1105,2024-09-28,Smartphone,Office,North,Charlie,14,1300,15652.0,14,Debit Card,30,Male,Hyderabad,No
+ORD1106,2024-06-17,Smartwatch,Accessories,West,Charlie,8,1383,10289.52,7,UPI,21,Male,Mumbai,No
+ORD1107,2024-03-22,Headphones,Electronics,East,Grace,8,147,893.76,24,UPI,43,Male,Mumbai,No
+ORD1108,2024-05-24,Smartwatch,Accessories,North,Bob,19,104,1896.96,4,Net Banking,42,Male,Bangalore,Yes
+ORD1109,2024-06-17,Printer,Electronics,West,David,7,672,4233.6,10,Credit Card,47,Female,Chennai,No
+ORD1110,2024-05-17,Monitor,Office,North,Alice,19,713,10024.78,26,Net Banking,28,Female,Hyderabad,Yes
+ORD1111,2024-02-14,Printer,Electronics,East,Frank,6,807,4793.58,1,Cash,24,Male,Delhi,No
+ORD1112,2024-06-16,Monitor,Electronics,West,Alice,6,455,2102.1,23,Debit Card,48,Female,Bangalore,Yes
+ORD1113,2024-10-31,Smartwatch,Electronics,North,Helen,3,118,258.42,27,Cash,61,Female,Chennai,Yes
+ORD1114,2024-08-28,Printer,Office,East,Grace,7,1385,8337.7,14,UPI,27,Male,Delhi,Yes
+ORD1115,2024-03-01,Headphones,Office,North,David,19,1362,24584.1,5,Net Banking,56,Female,Mumbai,No
+ORD1116,2024-03-09,Laptop,Electronics,North,Frank,8,1835,13652.4,7,Net Banking,30,Male,Mumbai,No
+ORD1117,2024-07-13,Smartwatch,Electronics,South,Grace,10,1621,11995.4,26,Net Banking,48,Male,Delhi,Yes
+ORD1118,2024-04-06,Monitor,Accessories,South,Bob,15,800,11520.0,4,Cash,24,Female,Bangalore,Yes
+ORD1119,2024-03-09,Camera,Electronics,East,Charlie,15,1221,15567.75,15,UPI,59,Male,Mumbai,No
+ORD1120,2024-02-29,Monitor,Accessories,South,Alice,1,1540,1155.0,25,Debit Card,59,Male,Hyderabad,No
+ORD1121,2024-07-20,Camera,Electronics,East,Eva,7,1812,10527.72,17,Debit Card,53,Male,Pune,Yes
+ORD1122,2024-08-03,Smartphone,Accessories,South,Eva,4,1317,5004.6,5,Cash,37,Male,Delhi,No
+ORD1123,2024-03-25,Printer,Office,North,David,6,1564,9008.64,4,Net Banking,21,Male,Delhi,No
+ORD1124,2024-08-27,Camera,Electronics,East,Bob,1,1922,1403.06,27,Credit Card,24,Male,Mumbai,No
+ORD1125,2024-09-05,Monitor,Electronics,East,Helen,5,1007,4279.75,15,Cash,18,Male,Bangalore,No
+ORD1126,2024-11-06,Smartphone,Electronics,North,Alice,1,1580,1390.4,12,Cash,61,Male,Hyderabad,Yes
+ORD1127,2024-05-15,Laptop,Electronics,East,Bob,4,414,1208.88,27,UPI,62,Female,Bangalore,No
+ORD1128,2024-10-01,Headphones,Accessories,East,Alice,2,531,1019.52,4,Debit Card,59,Female,Chennai,No
+ORD1129,2024-07-21,Headphones,Electronics,South,David,10,250,2200.0,12,Cash,64,Female,Chennai,Yes
+ORD1130,2024-10-24,Headphones,Office,East,David,5,203,852.6,16,Cash,30,Male,Pune,Yes
+ORD1131,2024-07-16,Camera,Office,West,Helen,10,1523,12640.9,17,Net Banking,39,Male,Mumbai,No
+ORD1132,2024-12-19,Laptop,Electronics,North,Eva,1,1574,1463.82,7,Net Banking,38,Female,Mumbai,No
+ORD1133,2024-07-28,Camera,Office,South,Bob,6,122,644.16,12,Credit Card,39,Female,Mumbai,No
+ORD1134,2024-05-18,Printer,Electronics,South,Frank,13,762,7033.26,29,UPI,45,Female,Pune,No
+ORD1135,2024-10-21,Camera,Electronics,West,Eva,15,345,3726.0,28,Credit Card,26,Male,Chennai,Yes
+ORD1136,2024-04-30,Laptop,Office,North,Bob,4,1090,3575.2,18,Net Banking,43,Female,Bangalore,Yes
+ORD1137,2024-02-13,Laptop,Electronics,North,Eva,13,1714,16711.5,25,Debit Card,26,Female,Pune,Yes
+ORD1138,2024-08-21,Printer,Office,South,Frank,15,1290,18963.0,2,Net Banking,32,Male,Pune,No
+ORD1139,2024-05-08,Laptop,Accessories,East,Charlie,8,110,677.6,23,UPI,27,Female,Bangalore,No
+ORD1140,2024-04-19,Monitor,Electronics,South,Charlie,5,988,4594.2,7,Net Banking,41,Male,Mumbai,No
+ORD1141,2024-09-04,Laptop,Accessories,North,Helen,15,1689,25081.65,1,UPI,59,Male,Hyderabad,No
+ORD1142,2024-08-17,Headphones,Office,West,Charlie,4,91,338.52,7,UPI,25,Male,Bangalore,Yes
+ORD1143,2024-09-08,Monitor,Accessories,South,Charlie,12,74,657.12,26,UPI,41,Female,Chennai,Yes
+ORD1144,2024-08-16,Monitor,Accessories,North,Grace,13,1112,12721.28,12,UPI,33,Female,Delhi,No
+ORD1145,2024-07-06,Printer,Office,South,Alice,2,1876,3301.76,12,UPI,43,Male,Delhi,Yes
+ORD1146,2024-12-13,Tablet,Accessories,East,Grace,19,180,3420.0,0,Debit Card,44,Female,Pune,No
+ORD1147,2024-10-23,Tablet,Accessories,South,Grace,19,1571,28356.55,5,Credit Card,54,Female,Delhi,No
+ORD1148,2024-04-07,Laptop,Office,South,Helen,4,1302,4010.16,23,Cash,21,Female,Hyderabad,Yes
+ORD1149,2024-12-29,Monitor,Accessories,North,Grace,4,157,514.96,18,Credit Card,41,Female,Mumbai,No
+ORD1150,2024-07-14,Tablet,Office,North,Charlie,11,221,2066.35,15,UPI,36,Male,Chennai,No
+ORD1151,2024-08-13,Tablet,Accessories,North,Frank,5,1508,7012.2,7,Debit Card,53,Female,Hyderabad,Yes
+ORD1152,2024-08-24,Laptop,Office,South,Helen,11,1551,12454.53,27,Net Banking,56,Male,Chennai,No
+ORD1153,2024-11-03,Tablet,Office,East,Helen,10,151,1510.0,0,Debit Card,27,Male,Chennai,No
+ORD1154,2024-09-24,Camera,Accessories,West,David,8,915,5416.8,26,UPI,42,Female,Mumbai,Yes
+ORD1155,2024-06-14,Smartphone,Accessories,West,Helen,6,573,2544.12,26,Debit Card,35,Male,Pune,No
+ORD1156,2024-01-02,Printer,Accessories,North,David,6,324,1652.4,15,Debit Card,36,Female,Delhi,Yes
+ORD1157,2024-07-22,Smartphone,Electronics,North,Helen,8,1686,12408.96,8,UPI,53,Female,Mumbai,No
+ORD1158,2024-11-13,Laptop,Electronics,South,Alice,15,1117,14744.4,12,Debit Card,27,Male,Hyderabad,Yes
+ORD1159,2024-07-01,Headphones,Electronics,West,Charlie,14,866,10911.6,10,Cash,50,Male,Pune,Yes
+ORD1160,2024-09-24,Printer,Office,North,Helen,11,1006,9738.08,12,Cash,22,Male,Hyderabad,Yes
+ORD1161,2024-05-02,Laptop,Accessories,East,Charlie,12,1090,9940.8,24,Debit Card,64,Male,Pune,No
+ORD1162,2024-09-20,Monitor,Office,East,Charlie,13,379,3941.6,20,Net Banking,52,Female,Hyderabad,Yes
+ORD1163,2024-03-09,Headphones,Electronics,North,Eva,8,1642,11953.76,9,UPI,61,Female,Mumbai,Yes
+ORD1164,2024-06-01,Smartphone,Accessories,North,Helen,18,1896,33104.16,3,Cash,51,Female,Pune,Yes
+ORD1165,2024-03-23,Laptop,Office,West,Bob,1,1570,1161.8,26,Net Banking,50,Male,Pune,Yes
+ORD1166,2024-06-25,Monitor,Accessories,West,Eva,15,1888,26904.0,5,Debit Card,38,Male,Chennai,Yes
+ORD1167,2024-02-08,Printer,Office,South,Bob,8,61,356.24,27,Net Banking,34,Male,Chennai,No
+ORD1168,2024-02-08,Printer,Accessories,West,Charlie,11,1391,14382.94,6,Credit Card,39,Female,Bangalore,No
+ORD1169,2024-04-20,Smartwatch,Electronics,East,Charlie,12,1665,19180.8,4,Cash,54,Male,Hyderabad,No
+ORD1170,2024-05-04,Monitor,Electronics,East,Eva,12,265,2862.0,10,Debit Card,32,Female,Chennai,No
+ORD1171,2024-12-08,Camera,Accessories,North,Eva,4,388,1365.76,12,UPI,52,Male,Bangalore,No
+ORD1172,2024-09-25,Tablet,Office,West,Bob,16,1849,22188.0,25,Debit Card,45,Female,Chennai,No
+ORD1173,2024-09-10,Headphones,Electronics,South,David,4,710,2158.4,24,UPI,24,Female,Hyderabad,No
+ORD1174,2024-10-07,Monitor,Electronics,East,Bob,5,1154,4731.4,18,Debit Card,49,Male,Pune,Yes
+ORD1175,2024-10-30,Smartwatch,Electronics,East,Eva,5,1800,7020.0,22,Net Banking,28,Male,Delhi,No
+ORD1176,2024-08-01,Tablet,Accessories,South,Frank,8,1558,11342.24,9,Net Banking,27,Female,Hyderabad,Yes
+ORD1177,2024-04-28,Tablet,Accessories,South,Eva,10,423,3849.3,9,Net Banking,26,Female,Mumbai,Yes
+ORD1178,2024-03-22,Laptop,Office,East,Frank,17,1025,15682.5,10,Credit Card,31,Male,Chennai,No
+ORD1179,2024-09-26,Tablet,Office,East,Alice,9,759,5464.8,20,UPI,30,Male,Chennai,Yes
+ORD1180,2024-01-27,Camera,Office,South,Eva,19,1273,17172.77,29,Net Banking,42,Female,Pune,Yes
+ORD1181,2024-08-11,Printer,Accessories,East,Alice,14,1610,21187.6,6,Credit Card,19,Male,Mumbai,Yes
+ORD1182,2024-08-21,Smartwatch,Accessories,North,David,8,515,3419.6,17,UPI,52,Female,Pune,Yes
+ORD1183,2024-09-17,Tablet,Office,North,Bob,9,1162,10144.26,3,Debit Card,24,Female,Mumbai,No
+ORD1184,2024-01-28,Laptop,Office,South,Frank,11,1341,14603.49,1,Credit Card,38,Male,Delhi,No
+ORD1185,2024-12-12,Camera,Accessories,West,Bob,1,1728,1503.36,13,Cash,35,Male,Chennai,No
+ORD1186,2024-09-03,Smartphone,Office,South,Alice,14,1644,20254.08,12,Credit Card,20,Male,Chennai,No
+ORD1187,2024-06-17,Printer,Electronics,South,Frank,5,1995,7182.0,28,Credit Card,59,Male,Delhi,No
+ORD1188,2024-07-10,Printer,Accessories,West,Bob,14,538,6703.48,11,UPI,56,Male,Bangalore,No
+ORD1189,2024-04-02,Smartwatch,Office,West,Eva,4,1950,7332.0,6,Debit Card,58,Female,Pune,No
+ORD1190,2024-08-30,Printer,Accessories,West,Charlie,1,1611,1594.89,1,Cash,28,Female,Delhi,No
+ORD1191,2024-06-02,Tablet,Electronics,North,Alice,19,96,1605.12,12,Net Banking,56,Male,Pune,No
+ORD1192,2024-12-01,Laptop,Accessories,East,Bob,8,1361,9472.56,13,Net Banking,41,Male,Hyderabad,No
+ORD1193,2024-11-11,Printer,Accessories,North,Alice,15,827,9179.7,26,Credit Card,63,Male,Chennai,Yes
+ORD1194,2024-06-03,Printer,Accessories,East,Grace,15,1089,13721.4,16,UPI,36,Female,Pune,No
+ORD1195,2024-12-08,Smartphone,Accessories,North,Alice,9,760,6292.8,8,UPI,21,Male,Mumbai,Yes
+ORD1196,2024-09-05,Smartphone,Electronics,East,Frank,9,450,3402.0,16,Net Banking,43,Male,Pune,Yes
+ORD1197,2024-10-21,Headphones,Accessories,North,Grace,10,1992,18525.6,7,Cash,55,Female,Hyderabad,Yes
+ORD1198,2024-03-30,Camera,Accessories,West,Helen,9,1867,16634.97,1,Debit Card,59,Female,Chennai,Yes
+ORD1199,2024-06-05,Tablet,Office,South,Frank,3,1030,2255.7,27,Cash,49,Male,Delhi,No
+ORD1200,2024-09-27,Printer,Accessories,North,Charlie,11,1159,9816.73,23,Debit Card,56,Male,Hyderabad,Yes
+ORD1201,2024-11-12,Monitor,Office,East,Grace,6,299,1578.72,12,Net Banking,62,Male,Chennai,No
+ORD1202,2024-09-30,Printer,Electronics,West,Helen,2,440,862.4,2,Debit Card,63,Female,Pune,No
+ORD1203,2024-02-15,Laptop,Electronics,North,Eva,7,1855,11037.25,15,UPI,53,Male,Bangalore,Yes
+ORD1204,2024-11-06,Headphones,Electronics,North,Alice,18,384,6566.4,5,Credit Card,57,Male,Bangalore,No
+ORD1205,2024-07-09,Camera,Electronics,West,Bob,2,678,1111.92,18,Credit Card,54,Male,Mumbai,Yes
+ORD1206,2024-09-23,Monitor,Office,North,David,17,1592,19215.44,29,Net Banking,50,Female,Chennai,Yes
+ORD1207,2024-06-12,Headphones,Accessories,South,Alice,11,186,1923.24,6,UPI,53,Female,Bangalore,No
+ORD1208,2024-02-24,Smartwatch,Electronics,North,Helen,12,932,10177.44,9,Cash,20,Male,Delhi,No
+ORD1209,2024-08-22,Camera,Accessories,South,Alice,19,737,12882.76,8,UPI,26,Male,Chennai,Yes
+ORD1210,2024-01-25,Printer,Office,South,Charlie,7,1913,13257.09,1,Credit Card,25,Female,Delhi,No
+ORD1211,2024-08-04,Printer,Office,West,Eva,6,1571,6880.98,27,Credit Card,50,Female,Delhi,No
+ORD1212,2024-05-26,Camera,Office,North,David,1,876,639.48,27,UPI,23,Female,Bangalore,No
+ORD1213,2024-05-28,Printer,Electronics,West,Grace,17,776,11345.12,14,UPI,58,Female,Chennai,Yes
+ORD1214,2024-11-10,Tablet,Accessories,North,Grace,11,1550,12105.5,29,Credit Card,56,Female,Pune,Yes
+ORD1215,2024-03-22,Camera,Accessories,North,Grace,18,643,11111.04,4,Cash,21,Female,Hyderabad,No
+ORD1216,2024-01-10,Headphones,Accessories,East,Helen,17,1296,15863.04,28,Net Banking,30,Female,Bangalore,No
+ORD1217,2024-12-13,Camera,Office,North,Frank,7,1039,5745.67,21,Net Banking,19,Female,Bangalore,No
+ORD1218,2024-03-16,Monitor,Electronics,West,Frank,17,421,6942.29,3,UPI,22,Female,Pune,No
+ORD1219,2024-01-06,Printer,Office,South,Bob,9,984,7173.36,19,Net Banking,61,Male,Chennai,No
+ORD1220,2024-03-08,Tablet,Office,North,David,17,1044,17215.56,3,Credit Card,44,Male,Chennai,Yes
+ORD1221,2024-06-19,Tablet,Accessories,East,Grace,8,451,2994.64,17,Credit Card,49,Male,Delhi,No
+ORD1222,2024-12-18,Smartwatch,Office,West,Frank,17,1516,24998.84,3,UPI,38,Female,Pune,Yes
+ORD1223,2024-01-23,Headphones,Accessories,North,Helen,7,1563,8096.34,26,UPI,25,Male,Pune,No
+ORD1224,2024-10-29,Smartphone,Electronics,West,Bob,1,664,557.76,16,UPI,55,Female,Chennai,Yes
+ORD1225,2024-04-28,Smartphone,Accessories,East,Eva,13,1346,15573.22,11,Cash,25,Female,Delhi,No
+ORD1226,2024-07-26,Camera,Electronics,East,Bob,19,1599,24000.99,21,Net Banking,20,Male,Bangalore,Yes
+ORD1227,2024-01-17,Smartwatch,Accessories,West,Frank,19,1232,19662.72,16,UPI,61,Female,Mumbai,No
+ORD1228,2024-03-30,Laptop,Office,North,Charlie,17,1225,18950.75,9,Debit Card,20,Male,Hyderabad,Yes
+ORD1229,2024-05-09,Camera,Office,South,Helen,13,1044,10721.88,21,Debit Card,39,Male,Bangalore,Yes
+ORD1230,2024-04-15,Smartwatch,Electronics,East,Charlie,16,669,10704.0,0,Credit Card,23,Male,Chennai,Yes
+ORD1231,2024-06-26,Headphones,Electronics,North,Grace,8,237,1497.84,21,Net Banking,19,Female,Hyderabad,Yes
+ORD1232,2024-01-08,Headphones,Electronics,North,Charlie,19,1886,26875.5,25,UPI,40,Male,Mumbai,Yes
+ORD1233,2024-06-16,Headphones,Accessories,South,Grace,18,1171,16230.06,23,Debit Card,61,Female,Mumbai,Yes
+ORD1234,2024-05-25,Headphones,Accessories,East,Grace,1,180,133.2,26,Net Banking,19,Male,Delhi,No
+ORD1235,2024-01-23,Headphones,Electronics,East,Frank,14,854,9923.48,17,Credit Card,55,Male,Hyderabad,Yes
+ORD1236,2024-03-28,Smartwatch,Office,North,Charlie,19,1244,19617.88,17,Cash,34,Male,Delhi,No
+ORD1237,2024-03-14,Smartwatch,Accessories,North,Grace,15,985,12854.25,13,Net Banking,52,Female,Bangalore,No
+ORD1238,2024-10-10,Tablet,Accessories,South,David,18,1035,16021.8,14,Net Banking,51,Female,Pune,No
+ORD1239,2024-10-25,Monitor,Accessories,South,Eva,2,232,334.08,28,Cash,40,Female,Pune,No
+ORD1240,2024-11-29,Smartphone,Electronics,East,Bob,17,1032,15614.16,11,Net Banking,47,Male,Pune,No
+ORD1241,2024-07-04,Printer,Electronics,West,Bob,18,413,7210.98,3,Credit Card,25,Male,Hyderabad,Yes
+ORD1242,2024-07-22,Headphones,Electronics,East,Frank,6,88,390.72,26,Credit Card,39,Female,Pune,Yes
+ORD1243,2024-05-27,Laptop,Electronics,North,Charlie,19,1600,29792.0,2,Cash,61,Female,Bangalore,Yes
+ORD1244,2024-10-01,Printer,Electronics,East,Charlie,4,1961,6353.64,19,UPI,53,Female,Delhi,No
+ORD1245,2024-12-03,Smartwatch,Office,West,Grace,1,546,393.12,28,Debit Card,22,Female,Hyderabad,Yes
+ORD1246,2024-12-20,Laptop,Office,South,Helen,8,1589,11313.68,11,UPI,30,Female,Delhi,Yes
+ORD1247,2024-06-25,Laptop,Electronics,West,Alice,7,1422,9356.76,6,Net Banking,46,Female,Hyderabad,Yes
+ORD1248,2024-12-30,Laptop,Accessories,West,Grace,3,1031,2226.96,28,Debit Card,48,Male,Delhi,Yes
+ORD1249,2024-03-29,Tablet,Electronics,West,Eva,10,970,8730.0,10,Cash,64,Female,Mumbai,Yes
+ORD1250,2024-04-08,Smartwatch,Office,South,David,10,1470,14700.0,0,Cash,33,Male,Delhi,No
+ORD1251,2024-07-21,Laptop,Office,West,Bob,19,771,13916.55,5,Debit Card,59,Male,Pune,Yes
+ORD1252,2024-10-21,Headphones,Accessories,West,Grace,14,1234,14857.36,14,Credit Card,47,Female,Mumbai,No
+ORD1253,2024-12-15,Camera,Office,West,Alice,2,65,111.8,14,Debit Card,33,Female,Delhi,No
+ORD1254,2024-05-13,Laptop,Electronics,North,Alice,1,542,444.44,18,Net Banking,29,Male,Hyderabad,No
+ORD1255,2024-11-21,Tablet,Accessories,West,Grace,18,1499,24283.8,10,Credit Card,34,Female,Hyderabad,No
+ORD1256,2024-12-19,Printer,Electronics,South,Frank,7,1181,6200.25,25,Cash,33,Female,Hyderabad,No
+ORD1257,2024-04-26,Smartwatch,Electronics,West,Bob,8,943,5884.32,22,Debit Card,29,Male,Chennai,Yes
+ORD1258,2024-07-09,Monitor,Accessories,West,Frank,1,1523,1142.25,25,UPI,25,Male,Bangalore,Yes
+ORD1259,2024-11-30,Tablet,Electronics,South,David,3,360,1069.2,1,UPI,37,Male,Hyderabad,Yes
+ORD1260,2024-06-27,Laptop,Office,West,Alice,8,788,5484.48,13,Net Banking,20,Female,Mumbai,No
+ORD1261,2024-01-20,Smartwatch,Electronics,South,Alice,15,1243,18458.55,1,UPI,33,Male,Hyderabad,Yes
+ORD1262,2024-01-27,Camera,Accessories,West,Eva,5,595,2142.0,28,Debit Card,47,Female,Chennai,Yes
+ORD1263,2024-02-12,Laptop,Accessories,South,David,3,463,1347.33,3,Debit Card,62,Male,Pune,No
+ORD1264,2024-09-27,Tablet,Accessories,West,Alice,19,300,4788.0,16,UPI,40,Male,Mumbai,No
+ORD1265,2024-02-17,Smartphone,Electronics,West,David,1,808,791.84,2,Debit Card,45,Male,Chennai,No
+ORD1266,2024-09-18,Headphones,Accessories,North,Bob,15,1854,24472.8,12,Net Banking,57,Female,Pune,No
+ORD1267,2024-01-22,Monitor,Accessories,North,Charlie,8,1214,8935.04,8,Credit Card,22,Female,Mumbai,Yes
+ORD1268,2024-11-05,Printer,Electronics,West,Alice,2,1347,2532.36,6,Net Banking,37,Male,Delhi,No
+ORD1269,2024-07-12,Tablet,Office,West,Eva,3,1489,3841.62,14,Net Banking,57,Male,Bangalore,No
+ORD1270,2024-07-24,Smartwatch,Electronics,East,Bob,14,1681,18356.52,22,Debit Card,61,Male,Bangalore,Yes
+ORD1271,2024-01-25,Monitor,Accessories,South,Grace,14,1812,18264.96,28,Credit Card,18,Female,Chennai,Yes
+ORD1272,2024-03-07,Monitor,Accessories,East,David,11,1964,15554.88,28,Debit Card,47,Male,Pune,No
+ORD1273,2024-03-06,Monitor,Electronics,North,Grace,16,1112,16012.8,10,Cash,38,Female,Bangalore,Yes
+ORD1274,2024-11-03,Laptop,Office,North,Frank,4,863,2796.12,19,Debit Card,37,Male,Pune,No
+ORD1275,2024-09-12,Headphones,Accessories,North,Bob,5,78,386.1,1,Debit Card,23,Male,Pune,No
+ORD1276,2024-04-06,Laptop,Accessories,North,Grace,14,1007,12124.28,14,Debit Card,39,Male,Chennai,Yes
+ORD1277,2024-08-09,Smartwatch,Accessories,West,Helen,16,526,7321.92,13,Credit Card,35,Male,Chennai,Yes
+ORD1278,2024-04-08,Laptop,Electronics,North,Helen,18,367,5350.86,19,Debit Card,25,Male,Chennai,No
+ORD1279,2024-11-01,Smartphone,Accessories,West,Alice,7,294,1625.82,21,Credit Card,56,Male,Bangalore,No
+ORD1280,2024-05-02,Headphones,Office,West,David,10,797,7173.0,10,UPI,49,Female,Chennai,No
+ORD1281,2024-12-14,Headphones,Accessories,North,Charlie,7,746,3864.28,26,Cash,50,Male,Bangalore,Yes
+ORD1282,2024-09-19,Smartwatch,Accessories,North,Bob,1,321,314.58,2,Credit Card,33,Female,Chennai,No
+ORD1283,2024-05-17,Printer,Office,South,Alice,19,1513,24147.48,16,UPI,29,Male,Hyderabad,No
+ORD1284,2024-02-11,Smartphone,Accessories,East,Eva,16,1821,20686.56,29,Credit Card,55,Male,Pune,No
+ORD1285,2024-08-12,Tablet,Electronics,North,Frank,19,1312,22185.92,11,Credit Card,51,Female,Chennai,No
+ORD1286,2024-06-23,Laptop,Electronics,South,David,4,426,1312.08,23,Cash,31,Male,Mumbai,No
+ORD1287,2024-06-15,Camera,Electronics,South,Bob,18,315,4139.1,27,Net Banking,53,Female,Pune,Yes
+ORD1288,2024-02-01,Laptop,Office,East,Helen,2,975,1404.0,28,Net Banking,50,Female,Pune,No
+ORD1289,2024-10-24,Monitor,Accessories,West,Bob,1,970,776.0,20,Credit Card,40,Male,Chennai,No
+ORD1290,2024-09-17,Laptop,Electronics,North,Charlie,15,1432,18472.8,14,Debit Card,62,Female,Delhi,No
+ORD1291,2024-05-05,Tablet,Office,East,Helen,5,389,1653.25,15,UPI,19,Female,Chennai,No
+ORD1292,2024-08-17,Laptop,Accessories,North,Charlie,11,438,4625.28,4,Debit Card,58,Male,Pune,Yes
+ORD1293,2024-09-23,Smartphone,Office,South,Eva,10,626,4632.4,26,Debit Card,38,Female,Mumbai,Yes
+ORD1294,2024-07-15,Smartphone,Electronics,South,Frank,2,1762,2854.44,19,Credit Card,19,Male,Pune,Yes
+ORD1295,2024-06-26,Headphones,Electronics,West,Eva,3,52,148.2,5,Credit Card,44,Male,Mumbai,No
+ORD1296,2024-04-28,Smartwatch,Electronics,South,Alice,12,1502,14779.68,18,Credit Card,26,Male,Bangalore,No
+ORD1297,2024-08-09,Printer,Office,South,Alice,5,1215,4617.0,24,Credit Card,18,Male,Hyderabad,Yes
+ORD1298,2024-03-09,Camera,Office,East,Eva,5,425,2040.0,4,Net Banking,28,Female,Pune,Yes
+ORD1299,2024-05-03,Monitor,Electronics,North,Frank,6,1743,10248.84,2,Credit Card,20,Male,Chennai,Yes
